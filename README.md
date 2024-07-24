@@ -19,23 +19,16 @@
 
 [Humanizr](https://github.com/humanizr/Humanizer/) - support for the Oxford comma added
 
+
 ## Where to find me
 
-github((GitHub))
-  onkelmatogitgub(OnkelMato)
-  ccc(CodeQualityCoach)
-  awesome(Awesome Inc)
-  
 * Social Networks
- *  LinkedIn
- *  Facebook
- *  Instagram
- *  BlueSky
- *  X
-  
-articles(Articles)
-  blog["**CodeQualityCoach Blog**
-_(articles and notes)_"]
-  medium["**Medium Articles**
-_(tutorials)_"]
+  *  [LinkedIn](https://www.linkedin.com/in/thomas-ley/)
+  *  [Facebook](https://www.facebook.com/thomas.ley.windeck)
+  *  [Instagram](https://www.instagram.com/thomas.ley.windeck/)
+  *  [BlueSky](https://bsky.app/profile/codequalitycoach.bsky.social)
+  *  [X](https://x.com/OnkelMato)
 
+* Blogs & Articles
+  * [Code Quality Coach Blog](https://codequalitycoach.de/) - Notes, small articles, and random topics.
+  * [Medium Articles](https://medium.com/@thomas-ley) - Tutorials and large articles.
