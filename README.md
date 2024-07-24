@@ -2,7 +2,7 @@
 ## Projects
 
 <a href="https://github.com/OnkelMato">
-  <img src="https://github-readme-stats.vercel.app/api?username=OnkelMato&count_private=true&show_icons=true" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OnkelMato&count_private=true&show_icons=true&theme=transparent" align="right" />
 </a>
 
 [NSubstitute.Context](https://github.com/OnkelMato/NSubstitute.Context) - A class to simplify class creating during testing with NSubstitute mocks. 
@@ -21,6 +21,10 @@
 
 
 ## Where to find me
+
+<a href="https://wakatime.com/@OnkelMato">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OnkelMato&theme=transparent" align="right" />
+</a>
 
 * Social Networks
   *  [LinkedIn](https://www.linkedin.com/in/thomas-ley/)
