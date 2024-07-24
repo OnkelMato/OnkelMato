@@ -1,33 +1,34 @@
-Good morning
+## Projects
 
-```mermaid
-mindmap
-  root)Onkel Mato(
-    github((GitHub))
-      onkelmatogitgub(OnkelMato)
-      ccc(CodeQualityCoach)
-      awesome(Awesome Inc)
-    social((Social Networks))
-      LinkedIn
-      Facebook
-      Instagram
-      BlueSky
-      X
-    articles(Articles)
-      blog["**CodeQualityCoach Blog**
+[NSubstitute.Context](https://github.com/OnkelMato/NSubstitute.Context) - A class to simplify class creating during testing with NSubstitute mocks
+
+## Contributions
+
+[Polly](https://github.com/Ashrafnet/Polly) - ExecuteAndCapture() added
+
+[Carter](https://github.com/CarterCommunity/Carter) - support for nested CarterModules added
+
+[Humanizr](https://github.com/humanizr/Humanizer/) - support for the Oxford comma added
+
+## Where to find me
+
+github((GitHub))
+  onkelmatogitgub(OnkelMato)
+  ccc(CodeQualityCoach)
+  awesome(Awesome Inc)
+  
+* Social Networks
+ *  LinkedIn
+ *  Facebook
+ *  Instagram
+ *  BlueSky
+ *  X
+  
+articles(Articles)
+  blog["**CodeQualityCoach Blog**
 _(articles and notes)_"]
-      medium["**Medium Articles**
+  medium["**Medium Articles**
 _(tutorials)_"]
-    domains(Domains)
-      codequalitycoach.de
-      softwarekueche.de
-      softwareküche.de
-    projects(Projects and Contributions)
-      Carter
-      Humanizr
-      NSubstitute.ContextFor
-
-```
 
 
 <a href="https://github.com/OnkelMato">
