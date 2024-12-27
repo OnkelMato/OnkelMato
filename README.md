@@ -31,7 +31,6 @@
   *  [Facebook](https://www.facebook.com/thomas.ley.windeck)
   *  [Instagram](https://www.instagram.com/thomas.ley.windeck/)
   *  [BlueSky](https://bsky.app/profile/codequalitycoach.bsky.social)
-  *  [X](https://x.com/OnkelMato)
 
 * Blogs & Articles
   * [Code Quality Coach Blog](https://codequalitycoach.de/) - Notes, small articles, and random topics.
