@@ -28,6 +28,7 @@
 
 * Social Networks
   *  [LinkedIn](https://www.linkedin.com/in/thomas-ley/)
+  *  [Mastodon 23.social](https://23.social/@OnkelMato)
 
 * Blogs & Articles
   * [Code Quality Coach Blog](https://codequalitycoach.de/) - Notes, small articles, and random topics.
