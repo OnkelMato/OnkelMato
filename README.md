@@ -28,9 +28,6 @@
 
 * Social Networks
   *  [LinkedIn](https://www.linkedin.com/in/thomas-ley/)
-  *  [Facebook](https://www.facebook.com/thomas.ley.windeck)
-  *  [Instagram](https://www.instagram.com/thomas.ley.windeck/)
-  *  [BlueSky](https://bsky.app/profile/codequalitycoach.bsky.social)
 
 * Blogs & Articles
   * [Code Quality Coach Blog](https://codequalitycoach.de/) - Notes, small articles, and random topics.
