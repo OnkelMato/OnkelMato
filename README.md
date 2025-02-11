@@ -5,6 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OnkelMato&count_private=true&show_icons=true&theme=transparent" align="right" />
 </a>
 
+[MFFM](https://github.com/OnkelMato/MFFM) - An MVVM framework for Windows forms with good documentation of clean code principles and design patterns.
+
 [NSubstitute.Context](https://github.com/OnkelMato/NSubstitute.Context) - A class to simplify class creating during testing with NSubstitute mocks. 
 
 [Legacy2000](https://github.com/OnkelMato/Legacy2000) - Legacy projects developed around 2000 —mostly Delphi and VB6.
