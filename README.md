@@ -13,7 +13,7 @@
 
 [Nada.Net](https://github.com/OnkelMato/Nada.Net) - Nada.net is "not another dotnet API" with the purpose of a function library with fully-tested functions. Either use the Nuget package or copy and paste the code.
 
-[Softwarekueche Home/Onkel kMato Blog](https://github.com/OnkelMato/Softwarekueche.Home) - A simple blog engine with two razor-based homepages. __Special Attention__ is the upload of signed json to add new blow posts to avoid user management.
+[Softwarekueche Home & Onkel Mato Blog](https://github.com/OnkelMato/Softwarekueche.Home) - A simple blog engine with two razor-based homepages. __Special Attention__ is the upload of signed json to add new blow posts to avoid user management.
 
 ## Contributions
 
