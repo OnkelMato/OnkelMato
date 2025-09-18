@@ -35,5 +35,5 @@
   *  [Mastodon 23.social](https://23.social/@OnkelMato)
 
 * Blogs & Articles
-  * [Code Quality Coach Blog](https://codequalitycoach.de/) - Notes, small articles, and random topics.
+  * [Code Quality Coach Blog](https://blog.softwarekueche.de/) - Notes, small articles, and random topics.
   * [Medium Articles](https://medium.com/@thomas-ley) - Tutorials and large articles.
